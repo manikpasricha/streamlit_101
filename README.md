@@ -1,8 +1,12 @@
 # Fastest way to a web application: Stock pricing with yfinance and Streamlit 101
 
-Be it testing out a new data application or trying to web-scraping project or deploying a dashboard for your team, Streamlit has emerged as one of the fastest ways to solutions from data to outcomes. \n
+Be it testing out a new data application or trying to web-scraping project or deploying a dashboard for your team, Streamlit has emerged as one of the fastest ways to solutions from data to outcomes.
+
 In the recent times, Django and Flask have emerged as among the top two web frameworks built on Python. While Django comes in with a lot of built-in out-of-the-box features that help develop and deploy quickly, Flask occupies the other extreme by offering a lot of flexibility and features to build your application from the ground up. In that way, Django is more like subscribing to one of those meal delivery companies while Flask is like ordering from an online grocery delivery store. On that scale, Streamlit is much closer to Django then to Flask. 
+
 Streamlit has a bunch of built-in functions that allows to go from data to graphs and plugins for metrics. [The API Reference - Streamlit Docs](https://docs.streamlit.io/library/api-reference) does an excellent job of walking through these functions are more. To test out this functionality, I used yfinance library from Yahoo Finance to import stock prices data and build some basic analysis and views using Streamlit and usual set of Python Libraries. It did turn out to be one of the fastest ways to go from data to a web application rich in graphics and functionality.
+
+
 
 
 Additional reading: 
