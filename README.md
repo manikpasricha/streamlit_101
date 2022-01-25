@@ -1,4 +1,4 @@
-# Fastest way to a web application: Stock pricing with yfinance and Streamlit 101
+# Fastest way to a web application: Stock pricing app using Streamlit 101
 
 Be it testing out a new data application or trying to web-scraping project or deploying a dashboard for your team, Streamlit has emerged as one of the fastest ways to solutions from data to outcomes.
 
